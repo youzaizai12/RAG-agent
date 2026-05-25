@@ -130,12 +130,7 @@ IT之家	CSDN	掘金	简书
 星穹铁道	英雄联盟	历史上的今天	天气预警
 
 ## 项目文件结构
-text
-├── new_agent.py          # 主程序文件
-├── city_mapper.py        # 城市映射管理器
-├── manage_cities.py      # 城市管理工具
-├── city_mapping.json     # 城市映射数据（自动生成）
-└── README.md             # 项目文档
+<img width="565" height="213" alt="image" src="https://github.com/user-attachments/assets/a1dcb4cc-b9a9-4863-93cf-beb947885de4" />
 
 ## 配置说明
 
